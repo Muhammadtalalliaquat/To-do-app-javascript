@@ -1,1 +1,1 @@
-App link is here: [https://muhammadtalalliaquat.github.io/To-do-app-javascript/]
+Do To App link is here: [https://muhammadtalalliaquat.github.io/To-do-app-javascript/]
